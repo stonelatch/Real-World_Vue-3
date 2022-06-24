@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "id": 8263,
+      "name": "shin",
+      "company": "MTK",
+      "hobby": "Sleep"
+    },
+    {
+      "id": 862538,
+      "name": "shilo",
+      "company": "realtek",
+      "hobby": "Dunno"
+    }
+  ],
   "events": [
     {
       "id": 123,
